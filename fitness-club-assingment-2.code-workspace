@@ -1,0 +1,13 @@
+{
+	"folders": [
+		{
+			"path": "."
+		},
+		{
+			"path": "../health-fitness-club"
+		}
+	],
+	"settings": {
+		"liveServer.settings.multiRootWorkspaceName": "fitness-club-assingment-2"
+	}
+}
