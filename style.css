@@ -917,7 +917,7 @@ nav {
 /* footer */
 
 footer{
-    background-color: rgb(246, 243, 243);
+    background-color: rgb(250, 244, 244);
     padding: 50px 0px;
     margin-top: 60px;
 }
@@ -927,6 +927,11 @@ footer{
 }
 .left-bar{
     width: 40%;
+}
+.left-bar p{
+     color: rgb(87, 83, 83);
+     opacity: 0.9;
+     font-size: 18px;
 }
 .mid-part, .right-bar{
     width: 30%;
@@ -950,9 +955,11 @@ footer{
 }
 .mid-part a, .right-bar a{
     text-decoration: none;
-    color: black;
+    color: rgb(87, 83, 83);
     margin-bottom: 10px;
     font-size: 20px;
+    opacity: 0.9;
+    cursor: pointer;
 }
 .mid-part div, .right-bar div{
     margin-bottom: 10px;
